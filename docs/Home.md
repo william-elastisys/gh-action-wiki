@@ -45,3 +45,6 @@ TBD: links to content
 * [Pro Git ebook](https://git-scm.com/book/en/v2)
 * [Udemy CKA course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents)
+
+
+change
